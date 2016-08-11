@@ -1,4 +1,4 @@
-This Python script will help you splite APE to MP3 in batch. Give it a folder path which store a few of APE and CUE files, it will recursive read all `.cue` files in this folder then splite its corresponding `.ape` files to MP3. 
+This Python script will help you slice APE to MP3 in batch. Give it a folder path which store a few of APE and CUE files, it will recursive read all `.cue` files in this folder then slice its corresponding `.ape` files to MP3. 
 
 ### Prerequisites
 1. Ffmpeg is essential, you must install ffmpeg in your computer.

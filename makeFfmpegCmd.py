@@ -1,5 +1,5 @@
 #
-# makeFfmpegCmd.py for generating the commands for spliting APE file to MP3 files.
+# makeFfmpegCmd.py for generating the commands for slicing APE file to MP3 files.
 #
 # The MIT License (MIT)
 #
